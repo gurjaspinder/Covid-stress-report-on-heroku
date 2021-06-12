@@ -50,3 +50,118 @@ Low, No change, Passive, Yes, Yes,1
 Low, No change, Passive, Yes, No,1
 High, No change, Neutral, No, No,0
 High, No change, Passive, Yes, Yes,1
+Medium, No change, Neutral, Yes, Yes,2
+Medium, No change, Neutral, Yes, No,1
+Low, No change, Neutral, No, No,0
+Low, No change, Passive, Yes, Yes,1
+Low, No change, Passive, Yes, No,1
+High, No change, Neutral, No, No,0
+High, No change, Passive, Yes, Yes,1
+Low, Decrease, Aggressive, Yes, Yes,3
+Low, Decrease, Aggressive, Yes, No,3
+Low, Decrease, Aggressive, No, Yes,3
+Low, Decrease, Aggressive, No, No,3
+Low, Decrease, Neutral, Yes, Yes,3
+Low, Decrease, Neutral, Yes, No,3
+Low, Decrease, Neutral, No, Yes,3
+Low, Decrease, Neutral, No, No,2
+Low, Decrease, Passive, Yes, Yes,3
+Low, Decrease, Passive, Yes, No,3
+Low, Decrease, Passive, No, Yes,3
+Low, Decrease, Passive, No, No,2
+Low, No change, Aggressive, Yes, Yes,3
+Low, No change, Aggressive, Yes, No,2
+Low, No change, Aggressive, No, Yes,2
+Low, No change, Aggressive, No, No,2
+Low, No change, Neutral, Yes, Yes,2
+Low, No change, Neutral, Yes, No,2
+Low, No change, Neutral, No, Yes,1
+Low, No change, Neutral, No, No,0
+Low, No change, Passive, Yes, Yes,1
+Low, No change, Passive, Yes, No,1
+Low, No change, Passive, No, Yes,1
+Low, No change, Passive, No, No,0
+Low,Increase, Aggressive, Yes, Yes,1
+Low,Increase, Aggressive, Yes, No,1
+Low,Increase, Aggressive, No, Yes,2
+Low,Increase, Aggressive, No, No,2
+Low,Increase, Neutral, Yes, Yes,1
+Low,Increase, Neutral, Yes, No,1
+Low,Increase, Neutral, No, Yes,1
+Low,Increase, Neutral, No, No,0
+Low,Increase, Passive, Yes, Yes,1
+Low,Increase, Passive, Yes, No,1
+Low,Increase, Passive, No, Yes,1
+Low,Increase, Passive, No, No,0
+Medium, Decrease, Aggressive, Yes, Yes,2
+Medium, Decrease, Aggressive, Yes, No,2
+Medium, Decrease, Aggressive, No, Yes,2
+Medium, Decrease, Aggressive, No, No,2
+Medium, Decrease, Neutral, Yes, Yes,2
+Medium, Decrease, Neutral, Yes, No,2
+Medium, Decrease, Neutral, No, Yes,2
+Medium, Decrease, Neutral, No, No,2
+Medium, Decrease, Passive, Yes, Yes,2
+Medium, Decrease, Passive, Yes, No,2
+Medium, Decrease, Passive, No, Yes,2
+Medium, Decrease, Passive, No, No,2
+Medium, No change, Aggressive, Yes, Yes,3
+Medium, No change, Aggressive, Yes, No,1
+Medium, No change, Aggressive, No, Yes,1
+Medium, No change, Aggressive, No, No,0
+Medium, No change, Neutral, Yes, Yes,2
+Medium, No change, Neutral, Yes, No,1
+Medium, No change, Neutral, No, Yes,1
+Medium, No change, Neutral, No, No,0
+Medium, No change, Passive, Yes, Yes,1
+Medium, No change, Passive, Yes, No,1
+Medium, No change, Passive, No, Yes,1
+Medium, No change, Passive, No, No,0
+Medium,Increase, Aggressive, Yes, Yes,1
+Medium,Increase, Aggressive, Yes, No,1
+Medium,Increase, Aggressive, No, Yes,1
+Medium,Increase, Aggressive, No, No,1
+Medium,Increase, Neutral, Yes, Yes,1
+Medium,Increase, Neutral, Yes, No,1
+Medium,Increase, Neutral, No, Yes,1
+Medium,Increase, Neutral, No, No,0
+Medium,Increase, Passive, Yes, Yes,1
+Medium,Increase, Passive, Yes, No,1
+Medium,Increase, Passive, No, Yes,1
+Medium,Increase, Passive, No, No,0
+High, Decrease, Aggressive, Yes, Yes,2
+High, Decrease, Aggressive, Yes, No,1
+High, Decrease, Aggressive, No, Yes,1
+High, Decrease, Aggressive, No, No,1
+High, Decrease, Neutral, Yes, Yes,2
+High, Decrease, Neutral, Yes, No,1
+High, Decrease, Neutral, No, Yes,1
+High, Decrease, Neutral, No, No,1
+High, Decrease, Passive, Yes, Yes,2
+High, Decrease, Passive, Yes, No,1
+High, Decrease, Passive, No, Yes,1
+High, Decrease, Passive, No, No,1
+High, No change, Aggressive, Yes, Yes,1
+High, No change, Aggressive, Yes, No,1
+High, No change, Aggressive, No, Yes,2
+High, No change, Aggressive, No, No,2
+High, No change, Neutral, Yes, Yes,1
+High, No change, Neutral, Yes, No,1
+High, No change, Neutral, No, Yes,0
+High, No change, Neutral, No, No,0
+High, No change, Passive, Yes, Yes,1
+High, No change, Passive, Yes, No,1
+High, No change, Passive, No, Yes,0
+High, No change, Passive, No, No,0
+High,Increase, Aggressive, Yes, Yes,1
+High,Increase, Aggressive, Yes, No,1
+High,Increase, Aggressive, No, Yes,2
+High,Increase, Aggressive, No, No,2
+High,Increase, Neutral, Yes, Yes,1
+High,Increase, Neutral, Yes, No,1
+High,Increase, Neutral, No, Yes,0
+High,Increase, Neutral, No, No,0
+High,Increase, Passive, Yes, Yes,1
+High,Increase, Passive, Yes, No,1
+High,Increase, Passive, No, Yes,0
+High,Increase, Passive, No, No,0
