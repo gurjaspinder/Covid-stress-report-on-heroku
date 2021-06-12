@@ -1,0 +1,52 @@
+﻿DegreeofConcentration,Academicperformance,Flightfightresponse,Sleepwakedisorder,coronaphobia,Output
+Low, Decrease, Aggressive, Yes, Yes,3
+Low, Decrease, Aggressive, Yes, No,3
+Low, Decrease, Aggressive, No, Yes,3
+Low, Decrease, Aggressive, No, No,3
+Low, Decrease, Neutral, Yes, Yes,3
+Low, Decrease, Neutral, Yes, No,3
+Low, Decrease, Neutral, No, Yes,3
+Low, Decrease, Neutral, No, No,2
+Low, Decrease, Passive, Yes, Yes,3
+Low, Decrease, Passive, Yes, No,3
+Low, Decrease, Passive, No, Yes,3
+Low, Decrease, Passive, No, No,2
+Low, No change, Aggressive, Yes, Yes,3
+Low, No change, Aggressive, Yes, No,2
+Low, No change, Aggressive, No, Yes,2
+Low, No change, Aggressive, No, No,2
+Low, High, Passive, No, Yes,1
+Low, High, Passive, No, No,0
+Medium, Decrease, Aggressive, Yes, Yes,2
+Medium, Decrease, Aggressive, Yes, No,2
+Medium, Decrease, Aggressive, No, Yes,2
+Medium, Decrease, Aggressive, No, No,2
+Medium, No change, Passive, No, Yes,1
+Medium, No change, Passive, No, No,0
+Medium, High, Aggressive, Yes, Yes,1
+Medium, High, Aggressive, Yes, No,1
+Medium, High, Aggressive, No, Yes,1
+Medium, High, Aggressive, No, No,1
+Medium, High, Passive, No, No,0
+High, Decrease, Aggressive, Yes, Yes,2
+High, Decrease, Aggressive, Yes, No,1
+High, Decrease, Aggressive, No, Yes,1
+High, Decrease, Aggressive, No, No,1
+High, Decrease, Passive, No, Yes,1
+High, Decrease, Passive, No, No,1
+High, No change, Aggressive, Yes, Yes,1
+High, No change, Passive, No, Yes,0
+High, No change, Passive, No, No,0
+High, High, Aggressive, Yes, Yes,1
+High, High, Aggressive, Yes, No,1
+High, High, Passive, No, Yes,0
+High, High, Passive, No, No,0
+Medium, No change, Aggressive, No, Yes,1
+Medium, No change, Aggressive, No, No,0
+Medium, No change, Neutral, Yes, Yes,2
+Medium, No change, Neutral, Yes, No,1
+Low, No change, Neutral, No, No,0
+Low, No change, Passive, Yes, Yes,1
+Low, No change, Passive, Yes, No,1
+High, No change, Neutral, No, No,0
+High, No change, Passive, Yes, Yes,1
