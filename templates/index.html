@@ -17,11 +17,36 @@
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-    	<input type="text" name="Degree of Concentration" placeholder="Degree of Concentration" required="required" />
-        <input type="text" name="Academic performance" placeholder="Academic performance" required="required" />
-		<input type="text" name="Flight fight response" placeholder="Flight fight response" required="required" />
-		<input type="text" name="Sleep wake disorder" placeholder="Sleep wake disorder" required="required" />
-		<input type="text" name="coronaphobia" placeholder="coronaphobia" required="required" />
+       
+        <label for="Degree of Concentration">Degree of Concentration</label>
+        <select name="Degree of Concentration" id="Degree of Concentration">
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+    </select>
+        <label for="Academic performance">Academic performance</label>
+        <select name="Academic performance" id="Academic performance">
+        <option value="decrease">Decrease</option>
+        <option value="no change">No Change</option>
+        <option value="increase">Increase</option>
+    </select>      
+        <label for="Flight fight response">Flight fight response</label>
+        <select name="Flight fight response" id="Flight fight response">
+        <option value="aggressive">Aggressive</option>
+        <option value="neutral">Neutral</option>
+        <option value="passive">Passive</option>
+    </select>   
+        <label for="Sleep wake disorder">Sleep wake disorder</label>
+        <select name="Sleep wake disorder" id="Sleep wake disorder">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+    </select>      
+        <label for="coronaphobia">coronaphobia</label>
+        <select name="coronaphobia" id="coronaphobia">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>      
+          
+    </select>
         <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
     </form>
 
